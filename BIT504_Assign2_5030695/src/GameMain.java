@@ -1,7 +1,13 @@
+package src;
+
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
+import src.board.Board;
+import src.enums.GameState;
+import src.enums.Player;
 
 
 public class GameMain extends JPanel implements MouseListener{

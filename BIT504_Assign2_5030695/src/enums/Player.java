@@ -1,3 +1,4 @@
+package src.enums;
 /**
  * Enumeration for the players move
  */
